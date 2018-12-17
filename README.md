@@ -1,2 +1,2 @@
-# glitch-desktop
+# Glitch Desktop
 Glitch Desktop App.

@@ -1,0 +1,26 @@
+{
+  "name": "glitch-desktop",
+  "version": "0.0.1",
+  "description": "Glitch Desktop App",
+  "main": "./src/index.js",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "electron": "^3.0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boltxyz/glitch-desktop.git"
+  },
+  "author": "boltxyz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boltxyz/glitch-desktop/issues"
+  },
+  "homepage": "https://github.com/boltxyz/glitch-desktop#readme"
+}
